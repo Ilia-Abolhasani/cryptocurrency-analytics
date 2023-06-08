@@ -2,6 +2,10 @@
 
 This project aims to calculate the correlation between cryptocurrencies and select coins with the maximum correlation distance. The selected coins can then be used in a smart-rebalance bot. The project utilizes historical data fetched from Binance using the ccxt library.
 
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/sample.png?raw=true" alt="Sample Image" width="600" height="600">
+
+
+
 ## Installation
 
 To use this project, you'll need to have Python 3.x installed. Clone the repository and navigate to the project directory:
