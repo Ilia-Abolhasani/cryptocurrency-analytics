@@ -12,8 +12,8 @@ The selected coins resulting from the correlation analysis and volatility calcul
 To use this project, you'll need to have Python 3.x installed. Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/Ilia-Abolhasani/cryptocurrency-correlation.git
-cd cryptocurrency-correlation
+git clone https://github.com/Ilia-Abolhasani/cryptocurrency-analytics.git
+cd cryptocurrency-analytics
 ```
 
 Next, install the required dependencies using pip:
