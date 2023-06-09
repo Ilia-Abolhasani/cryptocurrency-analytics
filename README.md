@@ -1,4 +1,4 @@
-# Cryptocurrency Correlation
+# Cryptocurrency Analytics
 
 This project aims to provide users with powerful analytical tools for cryptocurrencies, including correlation analysis and volatility calculation. By utilizing historical data from Binance through the ccxt library, users can gain insights into the relationships between different cryptocurrencies and assess their price movements over time.
 
@@ -43,10 +43,16 @@ Once you have fetched the historical data for the desired cryptocurrencies, proc
 
 You can modify the code to select the specific coins you are interested in. The correlation calculation can be customized to suit your requirements.
 
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/heatmap.png?raw=true" alt="Sample Image" width="600" height="600">
+
 ### Calculating Volatility
 In addition to correlation analysis, this project also includes the Volatility.ipynb Jupyter notebook file. This notebook calculates the percentage change per day and the Average True Range (ATR) for each crypto asset. This analysis helps identify the crypto asset with the maximum change per day.
 
 Open the Volatility.ipynb notebook and run the cells to calculate the volatility metrics.
+
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/percentage_change.png?raw=true" alt="Sample Image" width="900" height="300">
+
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/atr_example.png?raw=true" alt="Sample Image" width="900" height="300">
 
 ### Smart-Rebalance Bot
 
@@ -77,11 +83,3 @@ This project utilizes the following libraries:
 ## Disclaimer
 
 This project is for educational purposes only and should not be considered as financial or investment advice. Use at your own risk.
-
-
-
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/sample.png?raw=true" alt="Sample Image" width="600" height="600">
-
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/sample.png?raw=true" alt="Sample Image" width="600" height="600">
-
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/sample.png?raw=true" alt="Sample Image" width="600" height="600">
