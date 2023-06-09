@@ -43,16 +43,16 @@ Once you have fetched the historical data for the desired cryptocurrencies, proc
 
 You can modify the code to select the specific coins you are interested in. The correlation calculation can be customized to suit your requirements.
 
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/heatmap.png?raw=true" alt="Sample Image" width="600" height="600">
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-analytics/blob/main/images/heatmap.png?raw=true" alt="Sample Image" width="600" height="600">
 
 ### Calculating Volatility
 In addition to correlation analysis, this project also includes the Volatility.ipynb Jupyter notebook file. This notebook calculates the percentage change per day and the Average True Range (ATR) for each crypto asset. This analysis helps identify the crypto asset with the maximum change per day.
 
 Open the Volatility.ipynb notebook and run the cells to calculate the volatility metrics.
 
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/percentage_change.png?raw=true" alt="Sample Image" width="900" height="300">
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-analytics/blob/main/images/percentage_change.png?raw=true" alt="Sample Image" width="900" height="300">
 
-<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-correlation/blob/main/images/atr_example.png?raw=true" alt="Sample Image" width="900" height="300">
+<img src="https://github.com/Ilia-Abolhasani/cryptocurrency-analytics/blob/main/images/atr_example.png?raw=true" alt="Sample Image" width="900" height="300">
 
 ### Smart-Rebalance Bot
 
